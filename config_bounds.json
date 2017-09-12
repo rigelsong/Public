@@ -1,0 +1,41 @@
+[
+{
+"category" : "Overall",
+"subcategory" : "Level",
+"group" : 1,
+"order" : 1,
+"bstrings" :[{"startString" : "class=\"player-level\"><div class=\"u-vertical-center\">","endString" : "</div>"}],
+"boundtype" : "single",
+"regex" : "([0-9]+)"
+}
+,
+{
+"category" : "Overall",
+"subcategory" : "Rank",
+"group" : 1,
+"order" : 2,
+"bstrings" :[{"startString" : "<div class=\"competitive-rank\">","endString" : "</div>"}],
+"boundtype" : "single",
+"regex" : "<div class=\"u-align-center h6\">([0-9]+)"
+}
+,
+{
+"category" : "Competitive",
+"subcategory" : "Career",
+"group" : 3,
+"order" : 1,
+"bstrings" : [{"startString" : "<div id=\"competitive\" data-js=\"career-category\"","endString" : "<section id=\"achievements-section\""},{"startString" : "<section class=\"content-box u-max-width-container career-stats-section\">","endString" : "<section id=\"achievements-section\""}],
+"boundtype" : "multiple",
+"regex" : "<td>xxx<\/td><td>([0-9.,:% hoursecnd]*)<\/td>"
+}
+,
+{
+"category" : "Quickplay",
+"subcategory" : "Career",
+"group" : 3,
+"order" : 2,
+"bstrings" : [{"endString" : "<div id=\"competitive\" data-js=\"career-category\"","startString" : "<div id=\"quickplay\" data-js=\"career-category\""},{"startString" : "<section class=\"content-box u-max-width-container career-stats-section\">","endString" : "<div id=\"competitive\" data-js=\"career-category\""}],
+"boundtype" : "multiple",
+"regex" : "<td>xxx<\/td><td>([0-9.,:% hoursecnd]*)<\/td>"
+}
+]

@@ -1,0 +1,25 @@
+[
+{"category" : "All_Heroes", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E00000FFFFFFFF\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "Reaper", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E0000000000002\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "Tracer", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E0000000000003\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "Mercy", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E0000000000004\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "Hanzo", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E0000000000005\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "Torbjörn", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E0000000000006\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "Reinhardt", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E0000000000007\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "Winston", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E0000000000009\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "Widowmaker", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E000000000000A\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "Bastion", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E0000000000015\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "Symmetra", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E0000000000016\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "Zenyatta", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E0000000000020\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "Genji", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E0000000000029\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "Roadhog", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E0000000000040\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "McCree", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E0000000000042\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "Junkrat", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E0000000000065\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "Zarya", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E0000000000068\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "Soldier_76", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E000000000006E\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "Lúcio", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E0000000000079\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "D_Va", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E000000000007A\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "Mei", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E00000000000DD\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "Sombra", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E000000000012E\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+,{"category" : "Ana", "startString": "<div data-group-id=\"stats\" data-category-id=\"0x02E000000000013B\"", "endString" : "<div data-group-id=\"stats\"", "endAltString" : "<section id=\"achievements-section\""}
+]

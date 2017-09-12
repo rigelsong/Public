@@ -1,0 +1,8 @@
+{"DbProtocol" : "mongodb://"
+,"DbHost" : "192.168.1.4"
+,"DbPort" : "27017"
+,"DbDatabase" : "overmind"
+,"DbLogin" : {"username": "dbadmin","pwd": "test"}
+,"DBDefaultObject" : "players"
+}
+

@@ -1,0 +1,12 @@
+{"provider" : "battle.net",
+"type" : "Authorization",
+"application" : "Project NeeMikuSan",
+"clientId" : "j9wxb59qwndpp96h6puafusyqnzyadkh",
+"clientSecret" : "2tUxTvRkKBf6vX79stVFaYkyCtVpaDr3",
+"authEndPoint" : "https://XX.battle.net/oauth/authorize",
+"tokenEndPoint"	: "https://XX.battle.net/oauth/token",
+"tokenLifeTimeDays" : 30,
+"redirectUri" : "https://68.197.149.42:8443/auth/battlenet/callback",
+"apiEndPointUserName" : "https://XX.api.battle.net/account/user?access_token=",
+"apiEndPointUserKey" : "battletag"
+}
