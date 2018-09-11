@@ -122,6 +122,7 @@ function main(app) {
 	}, app).listen(app.get('port'));
 }
 
+//note that * is enabled for simplicity only
 function enableCrossDomain(req,res,next) {
   res.header("Access-Control-Allow-Origin", "*");
   res.header("Access-Control-Allow-Headers", "X-Requested-With");
