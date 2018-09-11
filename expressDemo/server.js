@@ -1,4 +1,6 @@
-//uses Express 4.x
+//Uses Express 4.x
+//Site validated with OWASP ZAP 2.7.0 scanner
+//see OWASP csv history in same folder
 
 //Authentication not implemented in running code here, but if we wanted to we
 //we could connect to an OAUTH endpoint and then also implement a callback path 
@@ -92,7 +94,7 @@ function main(app) {
 	  app.use(bodyparser());
 	  app.use(helmet());
 	  app.use(methodOverride());  
-	  app.use(enableCrossDomain);
+	  app.use(setResponseHeaders);
 
 	  app.use(cookieParser());  
 	  app.use(session({  
@@ -122,10 +124,17 @@ function main(app) {
 	}, app).listen(app.get('port'));
 }
 
-//note that * is enabled for simplicity only
-function enableCrossDomain(req,res,next) {
+
+function setResponseHeaders(req,res,next) {
+
+	//note that * is currently enabled for Access-Control-Allow-Origin
   res.header("Access-Control-Allow-Origin", "*");
+
   res.header("Access-Control-Allow-Headers", "X-Requested-With");
+  res.header("Pragma", "no-cache");
+  res.header("Cache-Control", "no-cache, no-store, must-revalidate");
+  res.header("X-XSS-Protection", "1");
+
   next();
 }
 

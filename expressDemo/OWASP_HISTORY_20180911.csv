@@ -1,0 +1,52 @@
+Id,Req. Timestamp,Method,URL,Code,Reason,RTT,Size Resp. Body,Highest Alert,Note,Tags
+1,Tue Sep 11 14:05:46 EDT 2018,GET,https://localhost:8443,200,OK,25,16,,false,SetCookie
+389,Tue Sep 11 14:24:25 EDT 2018,GET,https://localhost:8443,200,OK,28,16,,false,SetCookie
+776,Tue Sep 11 14:26:06 EDT 2018,GET,https://localhost:8443,200,OK,11,16,,false,SetCookie
+1163,Tue Sep 11 14:27:12 EDT 2018,GET,https://localhost:8443,200,OK,10,16,,false,SetCookie
+1550,Tue Sep 11 14:27:24 EDT 2018,POST,"https://accounts.google.com/ListAccounts?gpsia=1&source=durations_metrics,counter:0,load_time_ms:221&json=standard",200,OK,97,19,,false,JSON
+1552,Tue Sep 11 14:27:24 EDT 2018,GET,https://www.gstatic.com/chrome/intelligence/assist/ranker/models/translate/2017/03/translate_ranker_model_20170329.pb.bin,200,OK,111,2407,,false,
+1569,Tue Sep 11 14:27:43 EDT 2018,GET,https://localhost:8443/,200,OK,8,16,,false,SetCookie
+1570,Tue Sep 11 14:27:56 EDT 2018,GET,https://localhost:8443/api,404,Not Found,7,142,,false,
+1571,Tue Sep 11 14:28:00 EDT 2018,GET,https://localhost:8443/api/v1,302,Found,10,68,,false,
+1573,Tue Sep 11 14:28:00 EDT 2018,GET,https://localhost:8443/api/current,200,OK,2,96,,false,JSON
+1574,Tue Sep 11 14:33:24 EDT 2018,POST,https://update.googleapis.com/service/update2?cup2key=8:4236041975&cup2hreq=663931f203ace30fb8f161d845868298c4d31bb1f47f6d281bef2c540ed2da6a,200,OK,166,8977,,false,
+1577,Tue Sep 11 14:33:24 EDT 2018,GET,http://redirector.gvt1.com/edgedl/release2/chrome_component/AIl08sHevCKJ_31.0.0.108/31.0.0.108_mac64_PepperFlashPlayer.crx3,302,Found,50,469,,false,
+1584,Tue Sep 11 14:33:27 EDT 2018,GET,http://redirector.gvt1.com/edgedl/chromewebstore/L2Nocm9tZV9leHRlbnNpb24vYmxvYnMvODQzQUFWRnZjSDZEZlFKSFlmOEVoVm9VZw/0.57.44.2492_hnimpnehoodheedghdeeijklkeaacbdc.crx,302,Found,28,511,,false,
+1587,Tue Sep 11 14:33:27 EDT 2018,POST,https://update.googleapis.com/service/update2,200,OK,60,247,,false,
+1588,Tue Sep 11 14:33:27 EDT 2018,GET,http://r4---sn-8xgp1vo-2iae.gvt1.com/edgedl/chromewebstore/L2Nocm9tZV9leHRlbnNpb24vYmxvYnMvODQzQUFWRnZjSDZEZlFKSFlmOEVoVm9VZw/0.57.44.2492_hnimpnehoodheedghdeeijklkeaacbdc.crx?cms_redirect=yes&mip=108.50.250.4&mm=28&mn=sn-8xgp1vo-2iae&ms=nvh&mt=1536690681&mv=m&pl=17&shardbypass=yes,200,OK,1027,6760124,,false,Comment
+1593,Tue Sep 11 14:33:29 EDT 2018,GET,https://localhost:8443,200,OK,9,16,,false,SetCookie
+1606,Tue Sep 11 14:33:29 EDT 2018,POST,https://update.googleapis.com/service/update2,200,OK,41,247,,false,
+1607,Tue Sep 11 14:33:30 EDT 2018,GET,http://redirector.gvt1.com/edgedl/release2/chrome_component/Et5fsHeS1cY_9.0/9.0_all_easylist.crx3,302,Found,36,443,,false,
+1609,Tue Sep 11 14:33:30 EDT 2018,GET,http://r3---sn-8xgp1vo-2iae.gvt1.com/edgedl/release2/chrome_component/Et5fsHeS1cY_9.0/9.0_all_easylist.crx3?cms_redirect=yes&mip=108.50.250.4&mm=28&mn=sn-8xgp1vo-2iae&ms=nvh&mt=1536690681&mv=m&pl=17&shardbypass=yes,200,OK,1080,36670,,false,
+1615,Tue Sep 11 14:33:31 EDT 2018,POST,https://update.googleapis.com/service/update2,200,OK,54,247,,false,
+1840,Tue Sep 11 14:33:34 EDT 2018,GET,http://redirector.gvt1.com/edgedl/release2/chrome_component/I7_7hn5-G9I_4690/4690_all_crl-set-12632765994398321003.data.crx3,302,Found,29,470,,false,
+1847,Tue Sep 11 14:33:34 EDT 2018,GET,http://r4---sn-8xgp1vo-2iae.gvt1.com/edgedl/release2/chrome_component/I7_7hn5-G9I_4690/4690_all_crl-set-12632765994398321003.data.crx3?cms_redirect=yes&mip=108.50.250.4&mm=28&mn=sn-8xgp1vo-2iae&ms=nvh&mt=1536690741&mv=m&pl=17&shardbypass=yes,200,OK,28,16116,,false,Comment
+1851,Tue Sep 11 14:33:34 EDT 2018,POST,https://update.googleapis.com/service/update2,200,OK,58,247,,false,
+2116,Tue Sep 11 14:33:37 EDT 2018,GET,http://redirector.gvt1.com/edgedl/release2/chrome_component/AKC2O9NypBjC_873/873_all_sthset.crx3,302,Found,59,442,,false,
+2138,Tue Sep 11 14:33:37 EDT 2018,GET,http://r4---sn-8xgp1vo-2iae.gvt1.com/edgedl/release2/chrome_component/AKC2O9NypBjC_873/873_all_sthset.crx3?cms_redirect=yes&mip=108.50.250.4&mm=28&mn=sn-8xgp1vo-2iae&ms=nvh&mt=1536690741&mv=m&pl=17&shardbypass=yes,200,OK,66,24211,,false,
+2193,Tue Sep 11 14:33:37 EDT 2018,GET,http://redirector.gvt1.com/edgedl/release2/chrome_component/ALPpLZNptCRj_21/21_mac_fileTypePolicies.crx3,302,Found,22,450,,false,
+2195,Tue Sep 11 14:33:37 EDT 2018,POST,https://update.googleapis.com/service/update2,200,OK,45,247,,false,
+2360,Tue Sep 11 14:33:37 EDT 2018,GET,http://r6---sn-8xgp1vo-2iae.gvt1.com/edgedl/release2/chrome_component/ALPpLZNptCRj_21/21_mac_fileTypePolicies.crx3?cms_redirect=yes&mip=108.50.250.4&mm=28&mn=sn-8xgp1vo-2iae&ms=nvh&mt=1536690741&mv=m&pl=17&shardbypass=yes,200,OK,621,4923,,false,
+2366,Tue Sep 11 14:33:38 EDT 2018,POST,https://update.googleapis.com/service/update2,200,OK,35,247,,false,
+2426,Tue Sep 11 14:33:39 EDT 2018,GET,http://redirector.gvt1.com/edgedl/release2/chrome_component/AOE-CSwmdX-z_4/4_all_sslErrorAssistant.crx3,302,Found,24,449,,false,
+2428,Tue Sep 11 14:33:39 EDT 2018,GET,http://r3---sn-8xgp1vo-2iae.gvt1.com/edgedl/release2/chrome_component/AOE-CSwmdX-z_4/4_all_sslErrorAssistant.crx3?cms_redirect=yes&mip=108.50.250.4&mm=28&mn=sn-8xgp1vo-2iae&ms=nvh&mt=1536690741&mv=m&pl=17&shardbypass=yes,200,OK,23,5103,,false,
+2430,Tue Sep 11 14:33:39 EDT 2018,GET,http://redirector.gvt1.com/edgedl/release2/chrome_component/AN-dGxaD70N-_2018.9.6.0/2018.9.6.0_all_intervention_policy_database.crx3,302,Found,24,478,,false,
+2432,Tue Sep 11 14:33:39 EDT 2018,POST,https://update.googleapis.com/service/update2,200,OK,34,247,,false,
+2446,Tue Sep 11 14:33:39 EDT 2018,GET,http://r5---sn-8xgp1vo-2iae.gvt1.com/edgedl/release2/chrome_component/AN-dGxaD70N-_2018.9.6.0/2018.9.6.0_all_intervention_policy_database.crx3?cms_redirect=yes&mip=108.50.250.4&mm=28&mn=sn-8xgp1vo-2iae&ms=nvh&mt=1536690741&mv=m&pl=17&shardbypass=yes,200,OK,140,4864,,false,Comment
+2452,Tue Sep 11 14:33:39 EDT 2018,POST,https://update.googleapis.com/service/update2,200,OK,36,247,,false,
+2555,Tue Sep 11 14:37:23 EDT 2018,GET,https://localhost:8443,200,OK,23,16,,false,SetCookie
+3472,Tue Sep 11 14:38:01 EDT 2018,GET,https://www.google.com/_/chrome/newtab?ie=UTF-8,200,OK,128,45057,,false,"Form, Script, SetCookie, Comment"
+3481,Tue Sep 11 14:38:01 EDT 2018,GET,https://ssl.gstatic.com/chrome/components/doodle-notifier-02.html,200,OK,144,2132,,false,Script
+3486,Tue Sep 11 14:38:01 EDT 2018,GET,"https://www.google.com/xjs/_/js/k=xjs.ntp.en_US.zLQqk7fJEwY.O/m=sx,jsa,ntp,d,csi/am=wHhgYgo/rt=j/d=1/rs=ACT90oHXMmL23pQ-r2JFfuegJnLLp0U3pQ",200,OK,85,365352,,false,"Hidden, Comment"
+3495,Tue Sep 11 14:38:01 EDT 2018,GET,https://www.google.com/_/chrome/newtab-serviceworker.js,200,OK,98,3704,,false,
+3496,Tue Sep 11 14:38:01 EDT 2018,GET,https://ssl.gstatic.com/chrome/components/doodle-notifier-01.html,200,OK,31,1976,,false,Script
+3507,Tue Sep 11 14:38:01 EDT 2018,GET,"https://www.google.com/xjs/_/js/k=xjs.ntp.en_US.zLQqk7fJEwY.O/m=sx,jsa,ntp,d,csi/am=wHhgYgo/rt=j/d=1/rs=ACT90oHXMmL23pQ-r2JFfuegJnLLp0U3pQ",200,OK,135,365352,,false,"Hidden, Comment"
+3497,Tue Sep 11 14:38:01 EDT 2018,GET,"https://www.google.com/xjs/_/js/k=xjs.ntp.en_US.zLQqk7fJEwY.O/am=wHhgYgo/rt=j/d=1/exm=sx,jsa,ntp,d,csi/ed=1/rs=ACT90oHXMmL23pQ-r2JFfuegJnLLp0U3pQ/m=spch?xjs=s1",200,OK,46,10029,,false,
+3504,Tue Sep 11 14:38:01 EDT 2018,POST,"https://www.google.com/gen_204?atyp=csi&ei=fQuYW_S6IsXI5gKqoZjQAw&s=newtab&t=all&adh=&conn=onchange&ima=0&ime=0&imeb=0&imeo=0&mem=ujhs.10,tjhs.10,jhsl.2330,dm.8&net=dl.1300,ect.4g,rtt.100&sys=hc.8&rt=aft.65,ol.68,prt.65,xjs.243,xjsee.243,xjses.198,xjsls.71,wsrt.1162,cst.616,dnst.0,rqst.135,rspt.3,sslt.615,rqstt.628,unt.11,cstt.12,dit.1229&zx=1536691081788",204,No Content,52,0,,false,
+3508,Tue Sep 11 14:38:01 EDT 2018,GET,"https://www.google.com/async/newtab?ei=fQuYW_S6IsXI5gKqoZjQAw&yv=3&async=xid:1,_fmt:json",200,OK,177,258859,,false,"Comment, JSON"
+3506,Tue Sep 11 14:38:01 EDT 2018,POST,"https://www.google.com/gen_204?atyp=csi&ei=fQuYW_S6IsXI5gKqoZjQAw&s=newtab&t=all&action=perf&conn=onchange&ima=0&ime=0&imeb=0&imeo=0&mem=ujhs.10,tjhs.10,jhsl.2330,dm.8&net=dl.1300,ect.4g,rtt.100&sys=hc.8&rt=nti.230,fbd.232,thd.237,dbi.266,mvtr.292,wsrt.1163,cst.616,dnst.0,rqst.135,rspt.3,sslt.615,rqstt.628,unt.11,cstt.12,dit.1229&zx=1536691081831",204,No Content,58,0,,false,
+3510,Tue Sep 11 14:38:02 EDT 2018,POST,"https://www.google.com/gen_204?atyp=csi&ei=fQuYW_S6IsXI5gKqoZjQAw&s=newtab&t=all&action=update&conn=onchange&ima=0&ime=0&imeb=0&imeo=0&mem=ujhs.10,tjhs.10,jhsl.2330,dm.8&net=dl.1300,ect.4g,rtt.100&sys=hc.8&rt=xhrn.204,wsrt.1436,cst.616,dnst.0,rqst.135,rspt.3,sslt.615,rqstt.628,unt.11,cstt.12,dit.1229&zx=1536691082017",204,No Content,27,0,,false,
+3514,Tue Sep 11 14:38:02 EDT 2018,GET,https://www.google.com/gen_204?atyp=i&ct=3&cad=i&ogsr=1&id=19008138&ic=0&ogd=google.com&ogprm=up&ei=fQuYW_S6IsXI5gKqoZjQAw&zx=1536691082061,204,No Content,28,0,,false,SetCookie
+3518,Tue Sep 11 14:39:58 EDT 2018,GET,https://localhost:8443,200,OK,23,16,,false,SetCookie
+4435,Tue Sep 11 14:45:38 EDT 2018,GET,https://localhost:8443,200,OK,23,16,,false,SetCookie
+5352,Tue Sep 11 14:46:32 EDT 2018,GET,https://localhost:8443,200,OK,10,16,,false,SetCookie
